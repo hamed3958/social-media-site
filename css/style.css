@@ -1,0 +1,33 @@
+img {
+    max-width: 100%;
+}
+
+.card-img-2{
+    width: 100px;
+    position: relative;
+    transform: translateY(-50px);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.avatar-img{
+    width: 65px;
+}
+
+.avatar-img-sm{
+    width: 40px;
+}
+
+.lb-img{
+    height: 150px !important;
+}
+
+.lb-img-2{
+    height: 110px;
+}
+
+.bg-k{
+    background-color: #cecece;
+}
+
