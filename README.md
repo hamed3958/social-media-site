@@ -8,10 +8,10 @@ Users should be able to:
 
 
 ### Screenshot
-![Social media](hamedasadiasl.ir_pro_index.html.png)
+![Social media](images/hamedasadiasl.ir_pro_index.html.png)
 
 ## Links
-- Live Site URL: [Shortly URL]()
+- Live Site URL: [URL](https://hamed3958.github.io/social-media-site/)
 
 
 ### Built with
